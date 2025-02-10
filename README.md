@@ -23,7 +23,7 @@ git clone [https://github.com/Eyuel369/test_project.git](https://github.com/Eyue
 2. Navigate to the project directory:
 ```
 
-cd test_project_backend
+cd test_project
 
 ```plaintext
 3. Install the dependencies:
